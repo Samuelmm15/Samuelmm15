@@ -8,7 +8,7 @@
 
 </br></br>
 - 🏛️ I’m currently studying Computer Engineering on Universidad de La Laguna 
-- 🌱 I’m currently improving my knowledge in computer architecture and system and network administration
+- 🌱 I’m currently improving my knowledge in Full stack coding and cryptography coding
 </br></br>
 
 ## 🔨 Tools
