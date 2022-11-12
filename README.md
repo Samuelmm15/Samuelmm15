@@ -1,6 +1,6 @@
 ### Hi there, I´m Samuel Martín Morales👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samnuelmm15&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samuelmm15&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&hide_border=true&username=Samuelmm15&hide=Makefilelayout=compact" />
